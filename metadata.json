@@ -1,0 +1,8 @@
+{
+  "name": "Auto-Veritas Sierra Leone",
+  "description": "A Unified Digital Platform for Vehicle Registration, Licensing, and Insurance for the Sierra Leone Road Safety Authority (SLRSA).",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
